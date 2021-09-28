@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HellMod": {
+      "commandName": "Project"
+    },
+    "GodSoul": {
+      "commandName": "Executable"
+    }
+  }
+}
