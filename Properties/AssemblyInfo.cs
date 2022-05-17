@@ -1,9 +1,16 @@
-﻿using System.Runtime.InteropServices;
+using System.Diagnostics;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+using System.Runtime.Versioning;
 
-// Durch Festlegen von ComVisible auf "false" werden die Typen in dieser Assembly unsichtbar 
-// für COM-Komponenten.  Wenn Sie auf einen Typ in dieser Assembly von 
-// COM zugreifen müssen, legen Sie das ComVisible-Attribut für diesen Typ auf "true" fest.
 [assembly: ComVisible(false)]
-
-// Die folgende GUID bestimmt die ID der Typbibliothek, wenn dieses Projekt für COM verfügbar gemacht wird
 [assembly: Guid("4fa9143b-feee-4fa0-8ff3-1dcad2011950")]
+[assembly: AssemblyCompany("GodSoul")]
+[assembly: AssemblyConfiguration("Debug")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyInformationalVersion("1.0.0")]
+[assembly: AssemblyProduct("GodSoul")]
+[assembly: AssemblyTitle("HellMod")]
+[assembly: AssemblyVersion("1.0.0.0")]
